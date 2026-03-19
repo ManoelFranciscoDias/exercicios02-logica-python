@@ -9,3 +9,5 @@ resto = num1 % num2
 #saida
 print("O quociente da divisão é:", quociente)
 print("O resto da divisão é:", resto)
+
+nmr = int(input("Digite um número inteiro: "))
