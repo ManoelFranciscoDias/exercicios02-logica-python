@@ -9,4 +9,3 @@ volume = lado ** 3
 print("A área do cubo é:", area)
 print("O volume do cubo é:", volume)
 
-nmr = int(input("Digite um número inteiro: "))
